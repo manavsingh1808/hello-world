@@ -1,1 +1,2 @@
 # hello-world
+another lonely day in the lrc preparing for data science . my path to becoming a data scientist is a long and boring journey which contains many obstacles , i must not fall to these obstacles or else i will be stuck in a endless cycle of despair and depression for which i only have myself to blame. with the placements coming close and the pressure surely but definitely increasing and i must stick to one path with destination unknown .
